@@ -10,6 +10,9 @@ This project analyzes over 20,000 chess games to uncover strategic patterns such
 - **Win Rates**: White wins slightly more often (49.9%) compared to black (45.4%).
 - **Rating Differences**: White tends to have a higher rating when it wins, while black wins despite a rating disadvantage.
 
+### Victory Types
+![Victory Types](victory_types.png)
+
 ### Files:
 - **games.csv**: Dataset containing chess games.
 - **chess_analysis.py**: Python file that performs the analysis.
